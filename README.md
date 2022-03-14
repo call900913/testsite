@@ -1,3 +1,3 @@
 # Testsite
 
-My playground for experimenting with stuff.
+My playground for experimenting with vim. 
